@@ -1,32 +1,3 @@
-
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@phirstchild 
-Sirtuns4real
-/
-simple_shell
-Public
-Fork your own copy of Sirtuns4real/simple_shell
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-simple_shell/split.c
-@Sirtuns4real
-Sirtuns4real updated
-Latest commit 09746bc on Dec 7, 2022
- History
- 1 contributor
-212 lines (183 sloc)  3.6 KB
-
 #include "main.h"
 
 /**
